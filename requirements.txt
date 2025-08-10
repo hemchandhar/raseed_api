@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pymongo
+python-jose[cryptography]
+passlib[bcrypt]
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+pydantic[email]
+motor
+python-multipart
+pydantic-settings
+pytest
+httpx
